@@ -1,0 +1,29 @@
+[
+    {
+        "name": "Ami Komuro",
+        "nickname": null,
+        "season": "Opening New Doors",
+        "gender": "female",
+        "apearances": 21,
+        "age": 17,
+        "housematesLivedWith": 7
+    },
+    {
+        "name": "Frances Cihi",
+        "nickname": "Frankie",
+        "season": "Boys x Girls Next Door",
+        "gender": "female",
+        "apearances": 12,
+        "age": 26,
+        "housematesLivedWith": 6
+    },
+    {
+        "name": "Kaori Watanabe",
+        "nickname": null,
+        "season": "Tokyo 2019-2020",
+        "gender": "female",
+        "apearances": 20,
+        "age": 28,
+        "housematesLivedWith": 8
+    }
+]

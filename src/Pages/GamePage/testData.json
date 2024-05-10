@@ -1,0 +1,30 @@
+{
+  "name": "Oji",
+  "nickname": "The Prince",
+  "season": {
+    "value": "Opening New Doors",
+    "isCorrect": false
+  },
+  "gender": {
+    "value": "Male",
+    "isCorrect": false
+  },
+  "apearances": {
+    "value": 12,
+    "isCorrect": false,
+    "isClose": false,
+    "isHigher": true
+  },
+  "age": {
+    "value": 23,
+    "isCorrect": false,
+    "isClose": true,
+    "isHigher": true
+  },
+  "housematesLivedWith": {
+    "value": 8,
+    "isCorrect": true,
+    "isClose": true,
+    "isHigher": true
+  }
+}
