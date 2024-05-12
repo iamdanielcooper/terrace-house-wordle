@@ -1,4 +1,4 @@
-export enum GameCategories {
+enum GameCategories {
     GENDER = "Gender",
     AGE = "Age",
     APERANCES = "Aperances",
@@ -7,3 +7,5 @@ export enum GameCategories {
     NAME = "Name",
     NICKNAME = "Nickname"
 }
+
+export default GameCategories

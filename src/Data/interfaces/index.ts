@@ -2,6 +2,7 @@ export interface GameState {
   tries: number;
   hasWon: boolean;
   guesses: Guess[];
+  answer: Answer;
 }
 
 export interface Guess {
@@ -11,7 +12,7 @@ export interface Guess {
   gender: GuessDetails;
   apearances: GuessDetailsNumber;
   age: GuessDetailsNumber;
-  housematesLivedWith: GuessDetailsNumber;
+  housemates: GuessDetailsNumber;
 }
 
 export interface GuessDetails {
@@ -22,4 +23,14 @@ export interface GuessDetails {
 export interface GuessDetailsNumber extends GuessDetails {
   isClose: boolean;
   isHigher: boolean;
+}
+
+export interface Answer {
+  name: string;
+  nickname?: string;
+  season: string;
+  gender: string;
+  apearances: number;
+  age: number;
+  housemates: number;
 }

@@ -1,12 +1,716 @@
 [
     {
+        "name": "Kaori Watanabe",
+        "season": "Tokyo 2019-2020",
+        "gender": "female",
+        "apearances": 20,
+        "age": 28,
+        "housemates": 8
+    },
+    {
+        "name": "Shohei Matsuzaki",
+        "season": "Tokyo 2019-2020",
+        "gender": "male",
+        "apearances": 18,
+        "age": 25,
+        "housemates": 7
+    },
+    {
+        "name": "Haruka Okuyama",
+        "season": "Tokyo 2019-2020",
+        "gender": "female",
+        "apearances": 25,
+        "age": 24,
+        "housemates": 9
+    },
+    {
+        "name": "Kenji Yoshihara",
+        "nickname": "Kenny",
+        "season": "Tokyo 2019-2020",
+        "gender": "male",
+        "apearances": 14,
+        "age": 31,
+        "housemates": 5
+    },
+    {
+        "name": "Risako Tanabe",
+        "nickname": "Kenny",
+        "season": "Tokyo 2019-2020",
+        "gender": "female",
+        "apearances": 14,
+        "age": 21,
+        "housemates": 5
+    },
+    {
+        "name": "Ruka Nishinoiri",
+        "season": "Tokyo 2019-2020",
+        "gender": "male",
+        "apearances": 25,
+        "age": 20,
+        "housemates": 9
+    },
+    {
+        "name": "Emika Mizukoshi",
+        "season": "Tokyo 2019-2020",
+        "gender": "female",
+        "apearances": 21,
+        "age": 21,
+        "housemates": 11
+    },
+    {
+        "name": "Giuseppe Durato",
+        "nickname": "Peppe",
+        "season": "Tokyo 2019-2020",
+        "gender": "male",
+        "apearances": 13,
+        "age": 27,
+        "housemates": 7
+    },
+    {
+        "name": "Ryo Tawatari",
+        "season": "Tokyo 2019-2020",
+        "gender": "male",
+        "apearances": 15,
+        "age": 26,
+        "housemates": 10
+    },
+    {
+        "name": "Hana Kimura",
+        "season": "Tokyo 2019-2020",
+        "gender": "female",
+        "apearances": 23,
+        "age": 21,
+        "housemates": 13
+    },
+    {
+        "name": "Violetta Razdumina",
+        "nickname": "Vivi",
+        "season": "Tokyo 2019-2020",
+        "gender": "female",
+        "apearances": 17,
+        "age": 24,
+        "housemates": 10
+    },
+    {
+        "name": "Kai Kobayashi",
+        "season": "Tokyo 2019-2020",
+        "gender": "male",
+        "apearances": 14,
+        "age": 25,
+        "housemates": 8
+    },
+    {
+        "name": "John Kimverlu Tupas",
+        "nickname": "Tupas",
+        "season": "Tokyo 2019-2020",
+        "gender": "male",
+        "apearances": 9,
+        "age": 22,
+        "housemates": 6
+    },
+    {
+        "name": "Toshiyuki Niino",
+        "nickname": "Boss",
+        "season": "Tokyo 2019-2020",
+        "gender": "male",
+        "apearances": 10,
+        "age": 30,
+        "housemates": 9
+    },
+    {
+        "name": "Yume Hayashi",
+        "season": "Tokyo 2019-2020",
+        "gender": "female",
+        "apearances": 9,
+        "age": 24,
+        "housemates": 8
+    },
+    {
+        "name": "Shion Suzuki",
+        "season": "Tokyo 2019-2020",
+        "gender": "male",
+        "apearances": 9,
+        "age": 22,
+        "housemates": 8
+    },
+    {
+        "name": "Reo Kanao",
+        "season": "Tokyo 2019-2020",
+        "gender": "female",
+        "apearances": 4,
+        "age": 27,
+        "housemates": 6
+    },
+    {
+        "name": "Monroe Ron",
+        "season": "Tokyo 2019-2020",
+        "gender": "female",
+        "apearances": 1,
+        "age": 24,
+        "housemates": 5
+    },
+    {
         "name": "Ami Komuro",
-        "nickname": null,
+        "season": "Opening New Doors",
+        "gender": "female",
+        "apearances": 17,
+        "age": 21,
+        "housemates": 7
+    },
+    {
+        "name": "Yuudai Arai",
+        "season": "Opening New Doors",
+        "gender": "male",
+        "apearances": 9,
+        "age": 19,
+        "housemates": 5
+    },
+    {
+        "name": "Mizuki Haruta",
+        "season": "Opening New Doors",
+        "gender": "female",
+        "apearances": 9,
+        "age": 26,
+        "housemates": 5
+    },
+    {
+        "name": "Takayuki Nakamura",
+        "nickname": "Taka",
+        "season": "Opening New Doors",
+        "gender": "male",
+        "apearances": 34,
+        "age": 31,
+        "housemates": 12
+    },
+    {
+        "name": "Tsubasa Sato",
         "season": "Opening New Doors",
         "gender": "female",
         "apearances": 21,
-        "age": 17,
-        "housematesLivedWith": 7
+        "age": 25,
+        "housemates": 7
+    },
+    {
+        "name": "Shion Okamoto",
+        "season": "Opening New Doors",
+        "gender": "male",
+        "apearances": 21,
+        "age": 23,
+        "housemates": 7
+    },
+    {
+        "name": "Shohei Uemura",
+        "season": "Opening New Doors",
+        "gender": "male",
+        "apearances": 22,
+        "age": 28,
+        "housemates": 9
+    },
+    {
+        "name": "Seina Shimabukuro (OND)",
+        "season": "Opening New Doors",
+        "gender": "female",
+        "apearances": 25,
+        "age": 30,
+        "housemates": 8
+    },
+    {
+        "name": "Mayu Koseta",
+        "season": "Opening New Doors",
+        "gender": "female",
+        "apearances": 10,
+        "age": 23,
+        "housemates": 7
+    },
+    {
+        "name": "Yui Tanaka",
+        "season": "Opening New Doors",
+        "gender": "female",
+        "apearances": 28,
+        "age": 21,
+        "housemates": 13
+    },
+    {
+        "name": "Noah Ishikura",
+        "season": "Opening New Doors",
+        "gender": "male",
+        "apearances": 13,
+        "age": 21,
+        "housemates": 7
+    },
+    {
+        "name": "Aya Matarai",
+        "season": "Opening New Doors",
+        "gender": "female",
+        "apearances": 13,
+        "age": 20,
+        "housemates": 7
+    },
+    {
+        "name": "Shunsuke Ikezoe",
+        "season": "Opening New Doors",
+        "gender": "male",
+        "apearances": 7,
+        "age": 21,
+        "housemates": 8
+    },
+    {
+        "name": "Kaito Nakata",
+        "season": "Opening New Doors",
+        "gender": "male",
+        "apearances": 15,
+        "age": 20,
+        "housemates": 8
+    },
+    {
+        "name": "Maya Kisanuki",
+        "season": "Opening New Doors",
+        "gender": "female",
+        "apearances": 15,
+        "age": 19,
+        "housemates": 8
+    },
+    {
+        "name": "Sota Kono",
+        "season": "Opening New Doors",
+        "gender": "male",
+        "apearances": 8,
+        "age": 25,
+        "housemates": 7
+    },
+    {
+        "name": "Aio Fukuda",
+        "season": "Opening New Doors",
+        "gender": "male",
+        "apearances": 12,
+        "age": 23,
+        "housemates": 6
+    },
+    {
+        "name": "Risako Tanigawa",
+        "season": "Opening New Doors",
+        "gender": "female",
+        "apearances": 12,
+        "age": 28,
+        "housemates": 7
+    },
+    {
+        "name": "Masao Wada",
+        "season": "Opening New Doors",
+        "gender": "male",
+        "apearances": 8,
+        "age": 31,
+        "housemates": 5
+    },
+    {
+        "name": "Lauren Tsai",
+        "season": "Aloha State",
+        "gender": "female",
+        "apearances": 17,
+        "age": 18,
+        "housemates": 8
+    },
+    {
+        "name": "Yuya Shibusawa",
+        "season": "Aloha State",
+        "gender": "male",
+        "apearances": 22,
+        "age": 18,
+        "housemates": 9
+    },
+    {
+        "name": "Avian Ku",
+        "season": "Aloha State",
+        "gender": "female",
+        "apearances": 22,
+        "age": 26,
+        "housemates": 9
+    },
+    {
+        "name": "Eric De Mendonca",
+        "season": "Aloha State",
+        "gender": "male",
+        "apearances": 12,
+        "age": 27,
+        "housemates": 7
+    },
+    {
+        "name": "Naomi Lorraine Frank",
+        "season": "Aloha State",
+        "gender": "female",
+        "apearances": 10,
+        "age": 23,
+        "housemates": 5
+    },
+    {
+        "name": "Yusuke Aizawa",
+        "season": "Aloha State",
+        "gender": "male",
+        "apearances": 10,
+        "age": 18,
+        "housemates": 5
+    },
+    {
+        "name": "Anna Haneishi",
+        "season": "Aloha State",
+        "gender": "female",
+        "apearances": 16,
+        "age": 22,
+        "housemates": 9
+    },
+    {
+        "name": "Taishi Tamaki",
+        "season": "Aloha State",
+        "gender": "male",
+        "apearances": 27,
+        "age": 29,
+        "housemates": 9
+    },
+    {
+        "name": "Guy Sato",
+        "season": "Aloha State",
+        "gender": "male",
+        "apearances": 19,
+        "age": 20,
+        "housemates": 10
+    },
+    {
+        "name": "Niki Niwa",
+        "season": "Aloha State",
+        "gender": "female",
+        "apearances": 9,
+        "age": 20,
+        "housemates": 10
+    },
+    {
+        "name": "Cheri Maria Sumikawa Lavoie",
+        "season": "Aloha State",
+        "gender": "female",
+        "apearances": 15,
+        "age": 25,
+        "housemates": 10
+    },
+    {
+        "name": "Wesley Nakajima",
+        "nickname": "Wes",
+        "season": "Aloha State",
+        "gender": "male",
+        "apearances": 15,
+        "age": 19,
+        "housemates": 9
+    },
+    {
+        "name": "Jennifer Mila Hasegawa",
+        "nickname": "Mila",
+        "season": "Aloha State",
+        "gender": "female",
+        "apearances": 6,
+        "age": 19,
+        "housemates": 5
+    },
+    {
+        "name": "Chikako Fukuyama",
+        "season": "Aloha State",
+        "gender": "female",
+        "apearances": 11,
+        "age": 28,
+        "housemates": 7
+    },
+    {
+        "name": "Mariko Nitta",
+        "season": "Aloha State",
+        "gender": "female",
+        "apearances": 7,
+        "age": 25,
+        "housemates": 5
+    },
+    {
+        "name": "Ryo Sekikawa",
+        "season": "Aloha State",
+        "gender": "male",
+        "apearances": 7,
+        "age": 26,
+        "housemates": 5
+    },
+    {
+        "name": "Makoto Hasegawa",
+        "season": "Boys & Girls in the City",
+        "gender": "male",
+        "apearances": 11,
+        "age": 22,
+        "housemates": 5
+    },
+    {
+        "name": "Minori Nakada",
+        "season": "Boys & Girls in the City",
+        "gender": "female",
+        "apearances": 24,
+        "age": 21,
+        "housemates": 8
+    },
+    {
+        "name": "Yuki Adachi",
+        "nickname": "Tap",
+        "season": "Boys & Girls in the City",
+        "gender": "male",
+        "apearances": 17,
+        "age": 27,
+        "housemates": 7
+    },
+    {
+        "name": "Mizuki Shida",
+        "season": "Boys & Girls in the City",
+        "gender": "female",
+        "apearances": 17,
+        "age": 22,
+        "housemates": 7
+    },
+    {
+        "name": "Tatsuya Uchihara",
+        "nickname": "Uchi",
+        "season": "Boys & Girls in the City",
+        "gender": "male",
+        "apearances": 24,
+        "age": 23,
+        "housemates": 8
+    },
+    {
+        "name": "Yuriko Hayata",
+        "season": "Boys & Girls in the City",
+        "gender": "female",
+        "apearances": 13,
+        "age": 23,
+        "housemates": 6
+    },
+    {
+        "name": "Arman Bitaraf",
+        "season": "Boys & Girls in the City",
+        "gender": "male",
+        "apearances": 36,
+        "age": 24,
+        "housemates": 15
+    },
+    {
+        "name": "Arisa Ohata",
+        "season": "Boys & Girls in the City",
+        "gender": "female",
+        "apearances": 16,
+        "age": 25,
+        "housemates": 11
+    },
+    {
+        "name": "Hikaru Ota",
+        "season": "Boys & Girls in the City",
+        "gender": "male",
+        "apearances": 14,
+        "age": 18,
+        "housemates": 8
+    },
+    {
+        "name": "Natsumi Saito",
+        "season": "Boys & Girls in the City",
+        "gender": "female",
+        "apearances": 14,
+        "age": 26,
+        "housemates": 8
+    },
+    {
+        "name": "Misaki Tamori",
+        "season": "Boys & Girls in the City",
+        "gender": "female",
+        "apearances": 23,
+        "age": 23,
+        "housemates": 10
+    },
+    {
+        "name": "Yuto Handa",
+        "nickname": "Han-san",
+        "season": "Boys & Girls in the City",
+        "gender": "male",
+        "apearances": 11,
+        "age": 27,
+        "housemates": 8
+    },
+    {
+        "name": "Riko Nagai",
+        "nickname": "Rikopin",
+        "season": "Boys & Girls in the City",
+        "gender": "female",
+        "apearances": 18,
+        "age": 20,
+        "housemates": 6
+    },
+    {
+        "name": "Momoka Mitsunaga",
+        "season": "Boys & Girls in the City",
+        "gender": "female",
+        "apearances": 8,
+        "age": 20,
+        "housemates": 6
+    },
+    {
+        "name": "Hayato Terashima",
+        "season": "Boys & Girls in the City",
+        "gender": "male",
+        "apearances": 15,
+        "age": 29,
+        "housemates": 6
+    },
+    {
+        "name": "Yuuki Byrnes",
+        "season": "Boys & Girls in the City",
+        "gender": "male",
+        "apearances": 11,
+        "age": 23,
+        "housemates": 5
+    },
+    {
+        "name": "Masako Endo",
+        "nickname": "Martha",
+        "season": "Boys & Girls in the City",
+        "gender": "female",
+        "apearances": 8,
+        "age": 23,
+        "housemates": 5
+    },
+    {
+        "name": "Tetsuya Sugaya",
+        "season": "Boys x Girls Next Door",
+        "gender": "male",
+        "apearances": 98,
+        "age": 19,
+        "housemates": 21
+    },
+    {
+        "name": "Seina Shimabukuro (BxGND)",
+        "season": "Boys x Girls Next Door",
+        "gender": "female",
+        "apearances": 62,
+        "age": 25,
+        "housemates": 17
+    },
+    {
+        "name": "Rie Kitahara",
+        "season": "Boys x Girls Next Door",
+        "gender": "female",
+        "apearances": 12,
+        "age": 21,
+        "housemates": 5
+    },
+    {
+        "name": "Masato Yukawa",
+        "season": "Boys x Girls Next Door",
+        "gender": "male",
+        "apearances": 12,
+        "age": 22,
+        "housemates": 5
+    },
+    {
+        "name": "Shota Nakatsugawa",
+        "season": "Boys x Girls Next Door",
+        "gender": "male",
+        "apearances": 15,
+        "age": 25,
+        "housemates": 6
+    },
+    {
+        "name": "Momoko Takeuchi",
+        "nickname": "Momo-chan",
+        "season": "Boys x Girls Next Door",
+        "gender": "female",
+        "apearances": 25,
+        "age": 21,
+        "housemates": 8
+    },
+    {
+        "name": "Hana Imai",
+        "season": "Boys x Girls Next Door",
+        "gender": "female",
+        "apearances": 24,
+        "age": 20,
+        "housemates": 8
+    },
+    {
+        "name": "Dyki Miyagi",
+        "season": "Boys x Girls Next Door",
+        "gender": "male",
+        "apearances": 45,
+        "age": 22,
+        "housemates": 11
+    },
+    {
+        "name": "Tetsuya Iwanaga",
+        "nickname": "Oji",
+        "season": "Boys x Girls Next Door",
+        "gender": "male",
+        "apearances": 19,
+        "age": 26,
+        "housemates": 7
+    },
+    {
+        "name": "Aya Kondou",
+        "season": "Boys x Girls Next Door",
+        "gender": "female",
+        "apearances": 11,
+        "age": 21,
+        "housemates": 6
+    },
+    {
+        "name": "Miwako Kakei",
+        "nickname": "Mi-chan",
+        "season": "Boys x Girls Next Door",
+        "gender": "female",
+        "apearances": 32,
+        "age": 18,
+        "housemates": 9
+    },
+    {
+        "name": "Midori Takechi",
+        "season": "Boys x Girls Next Door",
+        "gender": "female",
+        "apearances": 11,
+        "age": 20,
+        "housemates": 5
+    },
+    {
+        "name": "Rina Sumioka",
+        "season": "Boys x Girls Next Door",
+        "gender": "female",
+        "apearances": 26,
+        "age": 22,
+        "housemates": 6
+    },
+    {
+        "name": "Yosuke Imai",
+        "season": "Boys x Girls Next Door",
+        "gender": "male",
+        "apearances": 35,
+        "age": 28,
+        "housemates": 8
+    },
+    {
+        "name": "Mai Nagatani",
+        "season": "Boys x Girls Next Door",
+        "gender": "female",
+        "apearances": 23,
+        "age": 22,
+        "housemates": 7
+    },
+    {
+        "name": "Chie Onuki",
+        "season": "Boys x Girls Next Door",
+        "gender": "female",
+        "apearances": 11,
+        "age": 22,
+        "housemates": 7
+    },
+    {
+        "name": "Ippei Shima",
+        "season": "Boys x Girls Next Door",
+        "gender": "male",
+        "apearances": 24,
+        "age": 28,
+        "housemates": 8
     },
     {
         "name": "Frances Cihi",
@@ -14,16 +718,39 @@
         "season": "Boys x Girls Next Door",
         "gender": "female",
         "apearances": 12,
-        "age": 26,
-        "housematesLivedWith": 6
+        "age": 24,
+        "housemates": 5
     },
     {
-        "name": "Kaori Watanabe",
-        "nickname": null,
-        "season": "Tokyo 2019-2020",
+        "name": "Ryoko Hirasawa",
+        "season": "Boys x Girls Next Door",
         "gender": "female",
-        "apearances": 20,
-        "age": 28,
-        "housematesLivedWith": 8
+        "apearances": 23,
+        "age": 23,
+        "housemates": 7
+    },
+    {
+        "name": "Kenya Yasuda",
+        "season": "Boys x Girls Next Door",
+        "gender": "male",
+        "apearances": 23,
+        "age": 23,
+        "housemates": 7
+    },
+    {
+        "name": "Michiko Yamanaka",
+        "season": "Boys x Girls Next Door",
+        "gender": "female",
+        "apearances": 11,
+        "age": 27,
+        "housemates": 5
+    },
+    {
+        "name": "Daiki Ito",
+        "season": "Boys x Girls Next Door",
+        "gender": "male",
+        "apearances": 10,
+        "age": 18,
+        "housemates": 5
     }
 ]

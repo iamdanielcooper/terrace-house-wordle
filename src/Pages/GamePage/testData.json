@@ -21,7 +21,7 @@
     "isClose": true,
     "isHigher": true
   },
-  "housematesLivedWith": {
+  "housemates": {
     "value": 8,
     "isCorrect": true,
     "isClose": true,

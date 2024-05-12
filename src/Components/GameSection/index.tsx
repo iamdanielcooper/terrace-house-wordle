@@ -1,41 +1,17 @@
-import React, { CSSProperties } from 'react'
+import React from "react";
+import { GuessResult } from '../'
+import { useAppSelector } from '../../hooks'
+import { GameState } from "../../Data/interfaces";
 
-interface Props {
-  isClose: boolean,
-  result: number|string,
-  title: string,
-  isCorrect: boolean
-}
+function GameSection() {
 
-enum BackgroundColors {
-  GREY = "grey",
-  YELLOW = "yellow",
-  GREEN = "green"
-}
-
-function GameSection(props: Props) {
-
-  const getBackoundColor = (isClose: boolean, isCorrect: boolean) => {
-      if (isCorrect) {
-        return BackgroundColors.GREEN
-      } else if (isClose) {
-        return BackgroundColors.YELLOW
-      } else {
-        return BackgroundColors.GREY
-      }
-  }
-
-  const style: CSSProperties= {
-    width: "100px",
-    background: getBackoundColor(props.isClose, props.isCorrect)
-  }
+  const gameState: GameState = useAppSelector((state) => state.gameState)
 
   return (
-    <div style={style}>
-      <p>{props.title}</p>
-      <p>{props.result}</p>
-    </div>
-  )
+    <>
+      {gameState.guesses.map(guess => <GuessResult guess={guess} />)}
+    </>
+  );
 }
 
-export default GameSection
+export default GameSection;
