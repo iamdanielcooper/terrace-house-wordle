@@ -7,18 +7,14 @@ function GamePage() {
   const gameState = useAppSelector((state) => state.gameState);
 
   const getGame = () => {
-    if (gameState.tries < 5 && !gameState.hasWon) {
-      return <GuessPicker />
-    } else if (gameState.hasWon) {
-      return <p>{GameMessages.PASSED}</p>
-    } else {
-      return <p>{GameMessages.FAILED}</p>
-    }
+    return gameState.tries < 5 && !gameState.hasWon ? <GuessPicker /> : null;
   }
 
   return (
     <div>
-      <h1>Konbanwa</h1>
+      <header>
+        <h1>Konbanwa</h1>
+      </header>
       { getGame() }
       <GameSection />
     </div>

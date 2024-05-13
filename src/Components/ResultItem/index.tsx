@@ -5,25 +5,41 @@ import { getBackoundColor } from "./utilities";
 
 function ResultItem(props: Props) {
   const style: CSSProperties = {
-    width: "100px",
     background: getBackoundColor(props.isClose, props.isCorrect),
+    flexGrow: 2,
+    borderRadius: "10px",
   };
+
+  const titleStyle: CSSProperties = {
+    margin: "0",
+    color: "white",
+    padding: "2px 10px",
+  }
+
+  const resultStyle: CSSProperties = {
+    margin: "5px",
+    color: "white",
+    padding: "2px",
+    fontWeight: "bold",
+    fontSize: "18px",
+    textTransform: "capitalize",
+  }
 
   const getArrow = (isHigher: boolean | undefined, isCorrect: boolean) => {
       if (isHigher === undefined || isCorrect) {
         return null
       } else if (isHigher) {
-        return <p>▲</p>
+        return <span>▲</span>
       } else {
-        return <p>▼</p>
+        return <span>▼</span>
       }
   }
 
   return (
     <div style={style}>
-      <p>{props.title}</p>
-      <p>{props.value}</p>
-      { getArrow(props.isHigher, props.isCorrect) }
+      <p style={titleStyle}>{props.title}</p>
+      <p style={resultStyle}>{props.value} { getArrow(props.isHigher, props.isCorrect) }</p>
+      
     </div>
   );
 }

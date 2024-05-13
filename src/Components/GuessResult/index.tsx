@@ -1,59 +1,48 @@
 import React, { CSSProperties } from "react";
-import { ResultItem } from "../";
 import { Guess } from "../../Data/interfaces";
-import { GameCategories } from "../../Enums";
+import { GuessImage, GuessName } from "./Components";
+import GuessDataSection from "./Components/GuessDataSection";
 
 interface Props {
   guess: Guess;
+  hasWon: boolean;
+  index: number;
 }
 
 function GuessResult(props: Props) {
+  const containerStyle: CSSProperties = {
+    margin: "30px",
+  };
+
   const style: CSSProperties = {
     display: "flex",
+    gap: "10px",
     justifyContent: "center",
   };
 
-  const containerStyle: CSSProperties = {
-    background: "pink",
+  const housemateIdentityStyle: CSSProperties = {
+    display: "flex",
+    alignItems: "center",
+    justifyContent: "center",
+    gap: "20px",
+    margin: "10px",
+  };
+
+  const shouldDisplayHousemateInfo = (): boolean => {
+    return !(props.hasWon && props.index === 0);
   };
 
   return (
     <div style={containerStyle}>
-      <div>
-        <p>{props.guess.nickname ? props.guess.nickname : props.guess.name}</p>
-      </div>
+      {shouldDisplayHousemateInfo() ? (
+        <section style={housemateIdentityStyle}>
+          <GuessImage url="https://blancmagazine.com/wp-content/uploads/2019/01/WATT_MINORI_DSC02379_IG.jpg" />
+          <GuessName name={props.guess.name} nickname={props.guess.nickname} />
+        </section>
+      ) : null}
+
       <div style={style}>
-        <ResultItem
-          title={GameCategories.AGE}
-          value={props.guess.age.value}
-          isCorrect={props.guess.age.isCorrect}
-          isHigher={props.guess.age.isHigher}
-          isClose={props.guess.age.isClose}
-        />
-        <ResultItem
-          title={GameCategories.APERANCES}
-          value={props.guess.apearances.value}
-          isCorrect={props.guess.apearances.isCorrect}
-          isHigher={props.guess.apearances.isHigher}
-          isClose={props.guess.apearances.isClose}
-        />
-        <ResultItem
-          title={GameCategories.GENDER}
-          value={props.guess.gender.value}
-          isCorrect={props.guess.gender.isCorrect}
-        />
-        <ResultItem
-          title={GameCategories.HOUSEMATES}
-          value={props.guess.housemates.value}
-          isCorrect={props.guess.housemates.isCorrect}
-          isHigher={props.guess.housemates.isHigher}
-          isClose={props.guess.housemates.isClose}
-        />
-        <ResultItem
-          title={GameCategories.SEASON}
-          value={props.guess.season.value}
-          isCorrect={props.guess.season.isCorrect}
-        />
+        <GuessDataSection guess={props.guess} />
       </div>
     </div>
   );
