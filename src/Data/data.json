@@ -5,7 +5,9 @@
         "gender": "female",
         "apearances": 20,
         "age": 28,
-        "housemates": 8
+        "housemates": 8,
+        "img": "kaori_watanabe.jpg",
+        "taglines": ["She heard a rumour you have a secret girlfriend."]
     },
     {
         "name": "Shohei Matsuzaki",
@@ -13,7 +15,11 @@
         "gender": "male",
         "apearances": 18,
         "age": 25,
-        "housemates": 7
+        "housemates": 7,
+        "img": "shohei_matsuzaki.jpg",
+        "taglines": [
+            "...he was here last night..."
+        ]
     },
     {
         "name": "Haruka Okuyama",
@@ -21,7 +27,9 @@
         "gender": "female",
         "apearances": 25,
         "age": 24,
-        "housemates": 9
+        "housemates": 9,
+        "img": "haruka_okuyama.jpg",
+        "taglines": [""]
     },
     {
         "name": "Kenji Yoshihara",
@@ -30,7 +38,11 @@
         "gender": "male",
         "apearances": 14,
         "age": 31,
-        "housemates": 5
+        "housemates": 5,
+        "img": "kenji_yoshihara.jpg",
+        "taglines": [
+            "* plays tightripe dancing *"
+        ]
     },
     {
         "name": "Risako Tanabe",
@@ -38,7 +50,12 @@
         "gender": "female",
         "apearances": 14,
         "age": 21,
-        "housemates": 5
+        "housemates": 5,
+        "img": "risako_tanabe.jpg",
+        "taglines": [
+            "Backflipping into the top spot.",
+            "She's not here, could he having a secret smoke."
+        ]
     },
     {
         "name": "Ruka Nishinoiri",
@@ -46,7 +63,13 @@
         "gender": "male",
         "apearances": 25,
         "age": 20,
-        "housemates": 9
+        "housemates": 9,
+        "img": "ruka_nishinoiri.jpg",
+        "taglines": [
+            "Two orders of Brocoli Pasta please.",
+            "Just got off from his shift at the Marvel bar.",
+            "I drew our initials in the shape of a heart."
+        ]
     },
     {
         "name": "Emika Mizukoshi",
@@ -54,7 +77,9 @@
         "gender": "female",
         "apearances": 21,
         "age": 21,
-        "housemates": 11
+        "housemates": 11,
+        "img": "emika_mizukoshi.jpg",
+        "taglines": [""]
     },
     {
         "name": "Giuseppe Durato",
@@ -63,7 +88,11 @@
         "gender": "male",
         "apearances": 13,
         "age": 27,
-        "housemates": 7
+        "housemates": 7,
+        "img": "giuseppe_durato.jpg",
+        "taglines": [
+            "Sponsored by Aparol Spritz."
+        ]
     },
     {
         "name": "Ryo Tawatari",
@@ -71,7 +100,11 @@
         "gender": "male",
         "apearances": 15,
         "age": 26,
-        "housemates": 10
+        "housemates": 10,
+        "img": "ryo_tawatari.jpg",
+        "taglines": [
+            ""
+        ]
     },
     {
         "name": "Hana Kimura",
@@ -79,7 +112,9 @@
         "gender": "female",
         "apearances": 23,
         "age": 21,
-        "housemates": 13
+        "housemates": 13,
+        "img": "hana_kimura.jpg",
+        "taglines": [""]
     },
     {
         "name": "Violetta Razdumina",
@@ -88,7 +123,9 @@
         "gender": "female",
         "apearances": 17,
         "age": 24,
-        "housemates": 10
+        "housemates": 10,
+        "img": "violetta_razdumina.jpg",
+        "taglines": [""]
     },
     {
         "name": "Kai Kobayashi",
@@ -96,7 +133,11 @@
         "gender": "male",
         "apearances": 14,
         "age": 25,
-        "housemates": 8
+        "housemates": 8,
+        "img": "kai_kobayashi.jpg",
+        "taglines": [
+            "Who invented the word nipple?"
+        ]
     },
     {
         "name": "John Kimverlu Tupas",
@@ -105,7 +146,12 @@
         "gender": "male",
         "apearances": 9,
         "age": 22,
-        "housemates": 6
+        "housemates": 6,
+        "img": "john_kimverlu_tupas.jpg",
+        "taglines": [
+            "Drove his way into all of our hearts", 
+            "Will send you bikini picks later"
+        ]
     },
     {
         "name": "Toshiyuki Niino",
@@ -114,7 +160,11 @@
         "gender": "male",
         "apearances": 10,
         "age": 30,
-        "housemates": 9
+        "housemates": 9,
+        "img": "toshiyuki_niino.jpg",
+        "taglines": [
+            "Need some help puting on that lip balm?"
+        ]
     },
     {
         "name": "Yume Hayashi",
@@ -122,7 +172,9 @@
         "gender": "female",
         "apearances": 9,
         "age": 24,
-        "housemates": 8
+        "housemates": 8,
+        "img": "yume_hayashi.jpg",
+        "taglines": [""]
     },
     {
         "name": "Shion Suzuki",
@@ -130,15 +182,19 @@
         "gender": "male",
         "apearances": 9,
         "age": 22,
-        "housemates": 8
+        "housemates": 8,
+        "img": "shion_suzuki.jpg",
+        "taglines": [""]
     },
     {
         "name": "Reo Kanao",
         "season": "Tokyo 2019-2020",
-        "gender": "female",
+        "gender": "male",
         "apearances": 4,
         "age": 27,
-        "housemates": 6
+        "housemates": 6,
+        "img": "reo_kanao.jpg",
+        "taglines": [""]
     },
     {
         "name": "Monroe Ron",
@@ -146,7 +202,11 @@
         "gender": "female",
         "apearances": 1,
         "age": 24,
-        "housemates": 5
+        "housemates": 5,
+        "img": "monroe_ron.jpg",
+        "taglines": [
+            "I'm sure she was nice."
+        ]
     },
     {
         "name": "Ami Komuro",
@@ -154,7 +214,12 @@
         "gender": "female",
         "apearances": 17,
         "age": 21,
-        "housemates": 7
+        "housemates": 7,
+        "img": "ami_komuro.jpg",
+        "taglines": [
+            "How badly did she want you to win, 1.",
+            "Wishes you were 10 years younger."
+        ]
     },
     {
         "name": "Yuudai Arai",
@@ -162,7 +227,12 @@
         "gender": "male",
         "apearances": 9,
         "age": 19,
-        "housemates": 5
+        "housemates": 5,
+        "img": "yuudai_arai.jpg",
+        "taglines": [
+            "* Sniffs onion *",
+            "Borried his dads credit card."
+        ]
     },
     {
         "name": "Mizuki Haruta",
@@ -170,7 +240,9 @@
         "gender": "female",
         "apearances": 9,
         "age": 26,
-        "housemates": 5
+        "housemates": 5,
+        "img": "mizuki_haruta.jpg",
+        "taglines": [""]
     },
     {
         "name": "Takayuki Nakamura",
@@ -179,7 +251,11 @@
         "gender": "male",
         "apearances": 34,
         "age": 31,
-        "housemates": 12
+        "housemates": 12,
+        "img": "takayuki_nakamura.jpg",
+        "taglines": [
+            "Sponsored by Brew Clothing"
+        ]
     },
     {
         "name": "Tsubasa Sato",
@@ -187,7 +263,9 @@
         "gender": "female",
         "apearances": 21,
         "age": 25,
-        "housemates": 7
+        "housemates": 7,
+        "img": "tsubasa_sato.jpg",
+        "taglines": [""]
     },
     {
         "name": "Shion Okamoto",
@@ -195,7 +273,11 @@
         "gender": "male",
         "apearances": 21,
         "age": 23,
-        "housemates": 7
+        "housemates": 7,
+        "img": "shion_okamoto.jpg",
+        "taglines": [
+            "Currently serving 10-life"
+        ]
     },
     {
         "name": "Shohei Uemura",
@@ -203,7 +285,11 @@
         "gender": "male",
         "apearances": 22,
         "age": 28,
-        "housemates": 9
+        "housemates": 9,
+        "img": "shohei_uemura.jpg",
+        "taglines": [
+            ""
+        ]
     },
     {
         "name": "Seina Shimabukuro (OND)",
@@ -211,7 +297,11 @@
         "gender": "female",
         "apearances": 25,
         "age": 30,
-        "housemates": 8
+        "housemates": 8,
+        "img": "seina_shimabukuro.jpg",
+        "taglines": [
+            ""
+        ]
     },
     {
         "name": "Mayu Koseta",
@@ -219,7 +309,9 @@
         "gender": "female",
         "apearances": 10,
         "age": 23,
-        "housemates": 7
+        "housemates": 7,
+        "img": "mayu_koseta.jpg",
+        "taglines": [""]
     },
     {
         "name": "Yui Tanaka",
@@ -227,7 +319,9 @@
         "gender": "female",
         "apearances": 28,
         "age": 21,
-        "housemates": 13
+        "housemates": 13,
+        "img": "yui_tanaka.jpg",
+        "taglines": [""]
     },
     {
         "name": "Noah Ishikura",
@@ -235,7 +329,9 @@
         "gender": "male",
         "apearances": 13,
         "age": 21,
-        "housemates": 7
+        "housemates": 7,
+        "img": "noah_ishikura.jpg",
+        "taglines": [""]
     },
     {
         "name": "Aya Matarai",
@@ -243,7 +339,11 @@
         "gender": "female",
         "apearances": 13,
         "age": 20,
-        "housemates": 7
+        "housemates": 7,
+        "img": "aya_matarai.jpg",
+        "taglines": [
+            "Taka's dream woman."
+        ]
     },
     {
         "name": "Shunsuke Ikezoe",
@@ -251,7 +351,9 @@
         "gender": "male",
         "apearances": 7,
         "age": 21,
-        "housemates": 8
+        "housemates": 8,
+        "img": "shunsuke_ikezoe.jpg",
+        "taglines": [""]
     },
     {
         "name": "Kaito Nakata",
@@ -259,7 +361,9 @@
         "gender": "male",
         "apearances": 15,
         "age": 20,
-        "housemates": 8
+        "housemates": 8,
+        "img": "kaito_nakata.jpg",
+        "taglines": [""]
     },
     {
         "name": "Maya Kisanuki",
@@ -267,7 +371,9 @@
         "gender": "female",
         "apearances": 15,
         "age": 19,
-        "housemates": 8
+        "housemates": 8,
+        "img": "maya_kisanuki.jpg",
+        "taglines": [""]
     },
     {
         "name": "Sota Kono",
@@ -275,7 +381,12 @@
         "gender": "male",
         "apearances": 8,
         "age": 25,
-        "housemates": 7
+        "housemates": 7,
+        "img": "sota_kono.jpg",
+        "taglines": [
+            "He has an opening to go buy some new glasses.",
+            "Did you hear he was devorced?"
+        ]
     },
     {
         "name": "Aio Fukuda",
@@ -283,7 +394,9 @@
         "gender": "male",
         "apearances": 12,
         "age": 23,
-        "housemates": 6
+        "housemates": 6,
+        "img": "aio_fukuda.jpg",
+        "taglines": [""]
     },
     {
         "name": "Risako Tanigawa",
@@ -291,7 +404,11 @@
         "gender": "female",
         "apearances": 12,
         "age": 28,
-        "housemates": 7
+        "housemates": 7,
+        "img": "risako_tanigawa.jpg",
+        "taglines": [
+            "Bought you some Minion socks because she trusts you."
+        ]
     },
     {
         "name": "Masao Wada",
@@ -299,7 +416,11 @@
         "gender": "male",
         "apearances": 8,
         "age": 31,
-        "housemates": 5
+        "housemates": 5,
+        "img": "masao_wada.jpg",
+        "taglines": [
+            "Makes a banging curry"
+        ]
     },
     {
         "name": "Lauren Tsai",
@@ -307,7 +428,11 @@
         "gender": "female",
         "apearances": 17,
         "age": 18,
-        "housemates": 8
+        "housemates": 8,
+        "img": "lauren_tsai.jpg",
+        "taglines": [
+            "Has dinner with her grandmother every Sunday"
+        ]
     },
     {
         "name": "Yuya Shibusawa",
@@ -315,7 +440,9 @@
         "gender": "male",
         "apearances": 22,
         "age": 18,
-        "housemates": 9
+        "housemates": 9,
+        "img": "yuya_shibusawa.jpg",
+        "taglines": [""]
     },
     {
         "name": "Avian Ku",
@@ -323,7 +450,11 @@
         "gender": "female",
         "apearances": 22,
         "age": 26,
-        "housemates": 9
+        "housemates": 9,
+        "img": "avian_ku.jpg",
+        "taglines": [
+            "Sponsored by 88Tees."
+        ]
     },
     {
         "name": "Eric De Mendonca",
@@ -331,7 +462,9 @@
         "gender": "male",
         "apearances": 12,
         "age": 27,
-        "housemates": 7
+        "housemates": 7,
+        "img": "eric_de_mendonca.jpg",
+        "taglines": [""]
     },
     {
         "name": "Naomi Lorraine Frank",
@@ -339,7 +472,12 @@
         "gender": "female",
         "apearances": 10,
         "age": 23,
-        "housemates": 5
+        "housemates": 5,
+        "img": "naomi_lorraine_frank.jpg",
+        "taglines": [
+            "It's her first day",
+            "It's her first Thanksgiving...you have to be there."
+        ]
     },
     {
         "name": "Yusuke Aizawa",
@@ -347,7 +485,12 @@
         "gender": "male",
         "apearances": 10,
         "age": 18,
-        "housemates": 5
+        "housemates": 5,
+        "img": "yusuke_aizawa.jpg",
+        "taglines": [
+            "* bangs tiny guitar *",
+            "Table for 1 please."
+        ]
     },
     {
         "name": "Anna Haneishi",
@@ -355,7 +498,9 @@
         "gender": "female",
         "apearances": 16,
         "age": 22,
-        "housemates": 9
+        "housemates": 9,
+        "img": "anna_haneishi.jpg",
+        "taglines": [""]
     },
     {
         "name": "Taishi Tamaki",
@@ -363,7 +508,9 @@
         "gender": "male",
         "apearances": 27,
         "age": 29,
-        "housemates": 9
+        "housemates": 9,
+        "img": "taishi_tamaki.jpg",
+        "taglines": [""]
     },
     {
         "name": "Guy Sato",
@@ -371,7 +518,9 @@
         "gender": "male",
         "apearances": 19,
         "age": 20,
-        "housemates": 10
+        "housemates": 10,
+        "img": "guy_sato.jpg",
+        "taglines": [""]
     },
     {
         "name": "Niki Niwa",
@@ -379,7 +528,9 @@
         "gender": "female",
         "apearances": 9,
         "age": 20,
-        "housemates": 10
+        "housemates": 10,
+        "img": "niki_niwa.jpg",
+        "taglines": [""]
     },
     {
         "name": "Cheri Maria Sumikawa Lavoie",
@@ -387,7 +538,11 @@
         "gender": "female",
         "apearances": 15,
         "age": 25,
-        "housemates": 10
+        "housemates": 10,
+        "img": "cheri_maria_sumikawa_lavoie.jpg",
+        "taglines": [
+            "She's the illest she's been in 10 years."
+        ]
     },
     {
         "name": "Wesley Nakajima",
@@ -396,7 +551,9 @@
         "gender": "male",
         "apearances": 15,
         "age": 19,
-        "housemates": 9
+        "housemates": 9,
+        "img": "wesley_nakajima.jpg",
+        "taglines": ["Instagram"]
     },
     {
         "name": "Jennifer Mila Hasegawa",
@@ -405,7 +562,11 @@
         "gender": "female",
         "apearances": 6,
         "age": 19,
-        "housemates": 5
+        "housemates": 5,
+        "img": "jennifer_mila_hasegawa.jpg",
+        "taglines": [
+            "She wanted to make swimsuits or something?"
+        ]
     },
     {
         "name": "Chikako Fukuyama",
@@ -413,7 +574,12 @@
         "gender": "female",
         "apearances": 11,
         "age": 28,
-        "housemates": 7
+        "housemates": 7,
+        "img": "chikako_fukuyama.jpg",
+        "taglines": [
+            "* eats banana *",
+            "Has a dog called Bruno Mars"
+        ]
     },
     {
         "name": "Mariko Nitta",
@@ -421,7 +587,9 @@
         "gender": "female",
         "apearances": 7,
         "age": 25,
-        "housemates": 5
+        "housemates": 5,
+        "img": "mariko_nitta.jpg",
+        "taglines": [""]
     },
     {
         "name": "Ryo Sekikawa",
@@ -429,7 +597,9 @@
         "gender": "male",
         "apearances": 7,
         "age": 26,
-        "housemates": 5
+        "housemates": 5,
+        "img": "ryo_sekikawa.jpg",
+        "taglines": [""]
     },
     {
         "name": "Makoto Hasegawa",
@@ -437,7 +607,9 @@
         "gender": "male",
         "apearances": 11,
         "age": 22,
-        "housemates": 5
+        "housemates": 5,
+        "img": "makoto_hasegawa.jpg",
+        "taglines": ["Bought you new shoes."]
     },
     {
         "name": "Minori Nakada",
@@ -445,7 +617,11 @@
         "gender": "female",
         "apearances": 24,
         "age": 21,
-        "housemates": 8
+        "housemates": 8,
+        "img": "minori_nakada.jpg",
+        "taglines": [
+            "Will eat your prized meat."
+        ]
     },
     {
         "name": "Yuki Adachi",
@@ -454,7 +630,12 @@
         "gender": "male",
         "apearances": 17,
         "age": 27,
-        "housemates": 7
+        "housemates": 7,
+        "img": "yuki_adachi.jpg",
+        "taglines": [
+            "Why don't you have a goal?!",
+            "Has hats."
+        ]
     },
     {
         "name": "Mizuki Shida",
@@ -462,7 +643,9 @@
         "gender": "female",
         "apearances": 17,
         "age": 22,
-        "housemates": 7
+        "housemates": 7,
+        "img": "mizuki_shida.jpg",
+        "taglines": ["Has no dream."]
     },
     {
         "name": "Tatsuya Uchihara",
@@ -471,7 +654,11 @@
         "gender": "male",
         "apearances": 24,
         "age": 23,
-        "housemates": 8
+        "housemates": 8,
+        "img": "tatsuya_uchihara.jpg",
+        "taglines": [
+            "Is excited to eat his steaks..."
+        ]
     },
     {
         "name": "Yuriko Hayata",
@@ -479,7 +666,9 @@
         "gender": "female",
         "apearances": 13,
         "age": 23,
-        "housemates": 6
+        "housemates": 6,
+        "img": "yuriko_hayata.jpg",
+        "taglines": [""]
     },
     {
         "name": "Arman Bitaraf",
@@ -487,7 +676,9 @@
         "gender": "male",
         "apearances": 36,
         "age": 24,
-        "housemates": 15
+        "housemates": 15,
+        "img": "arman_bitaraf.jpg",
+        "taglines": [""]
     },
     {
         "name": "Arisa Ohata",
@@ -495,7 +686,9 @@
         "gender": "female",
         "apearances": 16,
         "age": 25,
-        "housemates": 11
+        "housemates": 11,
+        "img": "arisa_ohata.jpg",
+        "taglines": [""]
     },
     {
         "name": "Hikaru Ota",
@@ -503,7 +696,9 @@
         "gender": "male",
         "apearances": 14,
         "age": 18,
-        "housemates": 8
+        "housemates": 8,
+        "img": "hikaru_ota.jpg",
+        "taglines": [""]
     },
     {
         "name": "Natsumi Saito",
@@ -511,7 +706,9 @@
         "gender": "female",
         "apearances": 14,
         "age": 26,
-        "housemates": 8
+        "housemates": 8,
+        "img": "natsumi_saito.jpg",
+        "taglines": [""]
     },
     {
         "name": "Misaki Tamori",
@@ -519,7 +716,9 @@
         "gender": "female",
         "apearances": 23,
         "age": 23,
-        "housemates": 10
+        "housemates": 10,
+        "img": "misaki_tamori.jpg",
+        "taglines": [""]
     },
     {
         "name": "Yuto Handa",
@@ -528,7 +727,9 @@
         "gender": "male",
         "apearances": 11,
         "age": 27,
-        "housemates": 8
+        "housemates": 8,
+        "img": "yuto_handa.jpg",
+        "taglines": [""]
     },
     {
         "name": "Riko Nagai",
@@ -537,7 +738,9 @@
         "gender": "female",
         "apearances": 18,
         "age": 20,
-        "housemates": 6
+        "housemates": 6,
+        "img": "riko_nagai.jpg",
+        "taglines": [""]
     },
     {
         "name": "Momoka Mitsunaga",
@@ -545,7 +748,9 @@
         "gender": "female",
         "apearances": 8,
         "age": 20,
-        "housemates": 6
+        "housemates": 6,
+        "img": "momoka_mitsunaga.jpg",
+        "taglines": [""]
     },
     {
         "name": "Hayato Terashima",
@@ -553,7 +758,9 @@
         "gender": "male",
         "apearances": 15,
         "age": 29,
-        "housemates": 6
+        "housemates": 6,
+        "img": "hayato_terashima.jpg",
+        "taglines": [""]
     },
     {
         "name": "Yuuki Byrnes",
@@ -561,7 +768,9 @@
         "gender": "male",
         "apearances": 11,
         "age": 23,
-        "housemates": 5
+        "housemates": 5,
+        "img": "yuuki_byrnes.jpg",
+        "taglines": [""]
     },
     {
         "name": "Masako Endo",
@@ -570,7 +779,9 @@
         "gender": "female",
         "apearances": 8,
         "age": 23,
-        "housemates": 5
+        "housemates": 5,
+        "img": "masako_endo.jpg",
+        "taglines": [""]
     },
     {
         "name": "Tetsuya Sugaya",
@@ -578,7 +789,9 @@
         "gender": "male",
         "apearances": 98,
         "age": 19,
-        "housemates": 21
+        "housemates": 21,
+        "img": "tetsuya_sugaya.jpg",
+        "taglines": [""]
     },
     {
         "name": "Seina Shimabukuro (BxGND)",
@@ -586,7 +799,9 @@
         "gender": "female",
         "apearances": 62,
         "age": 25,
-        "housemates": 17
+        "housemates": 17,
+        "img": "seina_shimabukuro.jpg",
+        "taglines": [""]
     },
     {
         "name": "Rie Kitahara",
@@ -594,7 +809,9 @@
         "gender": "female",
         "apearances": 12,
         "age": 21,
-        "housemates": 5
+        "housemates": 5,
+        "img": "rie_kitahara.jpg",
+        "taglines": [""]
     },
     {
         "name": "Masato Yukawa",
@@ -602,7 +819,9 @@
         "gender": "male",
         "apearances": 12,
         "age": 22,
-        "housemates": 5
+        "housemates": 5,
+        "img": "masato_yukawa.jpg",
+        "taglines": [""]
     },
     {
         "name": "Shota Nakatsugawa",
@@ -610,7 +829,9 @@
         "gender": "male",
         "apearances": 15,
         "age": 25,
-        "housemates": 6
+        "housemates": 6,
+        "img": "shota_nakatsugawa.jpg",
+        "taglines": [""]
     },
     {
         "name": "Momoko Takeuchi",
@@ -619,7 +840,9 @@
         "gender": "female",
         "apearances": 25,
         "age": 21,
-        "housemates": 8
+        "housemates": 8,
+        "img": "momoko_takeuchi.jpg",
+        "taglines": [""]
     },
     {
         "name": "Hana Imai",
@@ -627,7 +850,9 @@
         "gender": "female",
         "apearances": 24,
         "age": 20,
-        "housemates": 8
+        "housemates": 8,
+        "img": "hana_imai.jpg",
+        "taglines": [""]
     },
     {
         "name": "Dyki Miyagi",
@@ -635,7 +860,9 @@
         "gender": "male",
         "apearances": 45,
         "age": 22,
-        "housemates": 11
+        "housemates": 11,
+        "img": "daiki_miyagi.jpg",
+        "taglines": [""]
     },
     {
         "name": "Tetsuya Iwanaga",
@@ -644,7 +871,9 @@
         "gender": "male",
         "apearances": 19,
         "age": 26,
-        "housemates": 7
+        "housemates": 7,
+        "img": "tetsuya_iwanaga.jpg",
+        "taglines": [""]
     },
     {
         "name": "Aya Kondou",
@@ -652,7 +881,9 @@
         "gender": "female",
         "apearances": 11,
         "age": 21,
-        "housemates": 6
+        "housemates": 6,
+        "img": "aya_kondou.jpg",
+        "taglines": [""]
     },
     {
         "name": "Miwako Kakei",
@@ -661,7 +892,9 @@
         "gender": "female",
         "apearances": 32,
         "age": 18,
-        "housemates": 9
+        "housemates": 9,
+        "img": "miwako_kakei.jpg",
+        "taglines": [""]
     },
     {
         "name": "Midori Takechi",
@@ -669,7 +902,9 @@
         "gender": "female",
         "apearances": 11,
         "age": 20,
-        "housemates": 5
+        "housemates": 5,
+        "img": "midori_takechi.jpg",
+        "taglines": [""]
     },
     {
         "name": "Rina Sumioka",
@@ -677,7 +912,9 @@
         "gender": "female",
         "apearances": 26,
         "age": 22,
-        "housemates": 6
+        "housemates": 6,
+        "img": "rina_sumioka.jpg",
+        "taglines": [""]
     },
     {
         "name": "Yosuke Imai",
@@ -685,7 +922,9 @@
         "gender": "male",
         "apearances": 35,
         "age": 28,
-        "housemates": 8
+        "housemates": 8,
+        "img": "yosuke_imai.jpg",
+        "taglines": [""]
     },
     {
         "name": "Mai Nagatani",
@@ -693,7 +932,9 @@
         "gender": "female",
         "apearances": 23,
         "age": 22,
-        "housemates": 7
+        "housemates": 7,
+        "img": "mai_nagatani.jpg",
+        "taglines": [""]
     },
     {
         "name": "Chie Onuki",
@@ -701,7 +942,9 @@
         "gender": "female",
         "apearances": 11,
         "age": 22,
-        "housemates": 7
+        "housemates": 7,
+        "img": "chie_onuki.jpg",
+        "taglines": [""]
     },
     {
         "name": "Ippei Shima",
@@ -709,7 +952,9 @@
         "gender": "male",
         "apearances": 24,
         "age": 28,
-        "housemates": 8
+        "housemates": 8,
+        "img": "ippei_shima.jpg",
+        "taglines": [""]
     },
     {
         "name": "Frances Cihi",
@@ -718,7 +963,9 @@
         "gender": "female",
         "apearances": 12,
         "age": 24,
-        "housemates": 5
+        "housemates": 5,
+        "img": "frances_cihi.jpg",
+        "taglines": [""]
     },
     {
         "name": "Ryoko Hirasawa",
@@ -726,7 +973,9 @@
         "gender": "female",
         "apearances": 23,
         "age": 23,
-        "housemates": 7
+        "housemates": 7,
+        "img": "ryoko_hirasawa.jpg",
+        "taglines": [""]
     },
     {
         "name": "Kenya Yasuda",
@@ -734,7 +983,9 @@
         "gender": "male",
         "apearances": 23,
         "age": 23,
-        "housemates": 7
+        "housemates": 7,
+        "img": "kenya_yasuda.jpg",
+        "taglines": [""]
     },
     {
         "name": "Michiko Yamanaka",
@@ -742,7 +993,9 @@
         "gender": "female",
         "apearances": 11,
         "age": 27,
-        "housemates": 5
+        "housemates": 5,
+        "img": "michiko_yamanaka.jpg",
+        "taglines": [""]
     },
     {
         "name": "Daiki Ito",
@@ -750,6 +1003,8 @@
         "gender": "male",
         "apearances": 10,
         "age": 18,
-        "housemates": 5
+        "housemates": 5,
+        "img": "daiki_ito.jpg",
+        "taglines": [""]
     }
 ]

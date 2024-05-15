@@ -36,7 +36,7 @@ function GuessResult(props: Props) {
     <div style={containerStyle}>
       {shouldDisplayHousemateInfo() ? (
         <section style={housemateIdentityStyle}>
-          <GuessImage url="https://blancmagazine.com/wp-content/uploads/2019/01/WATT_MINORI_DSC02379_IG.jpg" />
+          <GuessImage url={props.guess.img} />
           <GuessName name={props.guess.name} nickname={props.guess.nickname} />
         </section>
       ) : null}

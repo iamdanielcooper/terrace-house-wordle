@@ -4,6 +4,8 @@ export const calculateResult = (guess: Answer, answer: Answer): Guess => {
     return {
         name: guess.name,
         nickname: guess.nickname,
+        img: guess.img,
+        taglines: guess.taglines,
         season: {
             isCorrect: guess.season === answer.season,
             value: guess.season

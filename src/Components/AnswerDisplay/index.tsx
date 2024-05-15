@@ -2,9 +2,12 @@ import React, { CSSProperties } from "react";
 
 interface Props {
   name: string;
+  img: string;
+  taglines: string[];
+  season: string | number;
 }
 
-function AnswerDisplay(props: Props) {
+function AnswerDisplay({ name, img, taglines, season }: Props) {
   const imageStyle: CSSProperties = {
     width: "80px",
     height: "80px",
@@ -16,7 +19,7 @@ function AnswerDisplay(props: Props) {
     alignItems: "center",
     justifyContent: "center",
     gap: "10px",
-    margin: "30px"
+    margin: "30px",
   };
 
   const nameStyle: CSSProperties = {
@@ -43,17 +46,14 @@ function AnswerDisplay(props: Props) {
   return (
     <div style={containerStyle}>
       <section>
-        <img
-          style={imageStyle}
-          src="https://blancmagazine.com/wp-content/uploads/2019/01/WATT_MINORI_DSC02379_IG.jpg"
-          alt=""
-        />
+        <img style={imageStyle} src={"assets/members/" + img} alt="" />
       </section>
       <section>
         <p style={nameStyle}>
-          It was <span style={hightlightedSection}>{props.name}</span>
+          It was <span style={hightlightedSection}>{name}</span> from{" "}
+          <span style={hightlightedSection}>{season}</span>
         </p>
-        <p style={taglineStyle}>Here goes the comment</p>
+        <p style={taglineStyle}>{taglines[0]}</p>
       </section>
     </div>
   );

@@ -15,7 +15,7 @@ function GuessImage(props: Props) {
       <img
         width="80px"
         height="80px"
-        src={props.url}
+        src={"assets/members/" + props.url}
         alt=""
         style={style}
       />

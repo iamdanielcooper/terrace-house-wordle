@@ -13,6 +13,8 @@ export interface Guess {
   apearances: GuessDetailsNumber;
   age: GuessDetailsNumber;
   housemates: GuessDetailsNumber;
+  img: string;
+  taglines: string[];
 }
 
 export interface GuessDetails {
@@ -33,4 +35,6 @@ export interface Answer {
   apearances: number;
   age: number;
   housemates: number;
+  img: string;
+  taglines: string[];
 }
