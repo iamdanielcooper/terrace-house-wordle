@@ -27,7 +27,7 @@ function GuessPicker() {
           <option key={i.name} disabled={hasBeenSelected(i.name)}>{i.name}</option>
         ))}
       </select>
-      <AddGuessButton housemateGuessed={selectedValue} />
+      <AddGuessButton enabled={!hasBeenSelected(selectedValue)} housemateGuessed={selectedValue} />
     </>
   );
 }

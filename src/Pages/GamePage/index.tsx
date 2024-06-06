@@ -1,6 +1,6 @@
-import React from "react";
+import React, { CSSProperties } from "react";
 import { useAppSelector } from "../../hooks";
-import { GameSection, GuessPicker } from "../../Components";
+import { GameSection, GuessPicker, Modal } from "../../Components";
 import { GameMessages } from "../../Enums";
 
 function GamePage() {
@@ -8,15 +8,33 @@ function GamePage() {
 
   const getGame = () => {
     return gameState.tries < 5 && !gameState.hasWon ? <GuessPicker /> : null;
+  };
+
+  const headerStyle: CSSProperties = {
+    color: "white",
+    margin: "20px"
+  };
+
+  const footerTextStyle: CSSProperties = {
+    fontSize: "12px"
   }
 
   return (
     <div>
       <header>
-        <h1>Konbanwa</h1>
+        <h1 style={headerStyle}>Konbanwa</h1>
+        <Modal children={<h1 style={headerStyle}>Konbanwa</h1>} />
       </header>
-      { getGame() }
+      {getGame()}
       <GameSection />
+      <footer style={headerStyle}>
+        <p style={footerTextStyle}>
+          Images taken from{" "}
+          <a href="https://terracehousesocial.com/">terracehousesocial</a>{" "}
+          Thanks for your great work
+        </p>
+        <p style={footerTextStyle}>All images and information copyright to their respective owners.</p>{" "}
+      </footer>
     </div>
   );
 }
