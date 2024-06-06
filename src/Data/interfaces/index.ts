@@ -10,7 +10,7 @@ export interface Guess {
   nickname?: string;
   season: GuessDetails;
   gender: GuessDetails;
-  apearances: GuessDetailsNumber;
+  Appearances: GuessDetailsNumber;
   age: GuessDetailsNumber;
   housemates: GuessDetailsNumber;
   img: string;
@@ -32,7 +32,7 @@ export interface Answer {
   nickname?: string;
   season: string;
   gender: string;
-  apearances: number;
+  Appearances: number;
   age: number;
   housemates: number;
   img: string;

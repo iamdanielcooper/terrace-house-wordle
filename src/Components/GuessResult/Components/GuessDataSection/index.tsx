@@ -45,11 +45,11 @@ function GuessDataSection(props: Props) {
       </section>
       <section style={bottomRowContainterStyle}>
         <ResultItem
-          title={GameCategories.APERANCES}
-          value={props.guess.apearances.value}
-          isCorrect={props.guess.apearances.isCorrect}
-          isHigher={props.guess.apearances.isHigher}
-          isClose={props.guess.apearances.isClose}
+          title={GameCategories.Appearances}
+          value={props.guess.Appearances.value}
+          isCorrect={props.guess.Appearances.isCorrect}
+          isHigher={props.guess.Appearances.isHigher}
+          isClose={props.guess.Appearances.isClose}
         />
         <ResultItem
           title={GameCategories.GENDER}

@@ -1,7 +1,7 @@
 enum GameCategories {
     GENDER = "Gender",
     AGE = "Age",
-    APERANCES = "Aperances",
+    Appearances = "Appearances",
     HOUSEMATES = "Housemates",
     SEASON = "Season",
     NAME = "Name",

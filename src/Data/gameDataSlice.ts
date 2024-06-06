@@ -16,7 +16,7 @@ const initialState: GameState = {
 const hasWon = (guess: Guess) => {
   return (
     guess.age.isCorrect &&
-    guess.apearances.isCorrect &&
+    guess.Appearances.isCorrect &&
     guess.gender.isCorrect &&
     guess.housemates.isCorrect &&
     guess.season.isCorrect

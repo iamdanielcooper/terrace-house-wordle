@@ -16,11 +16,11 @@ export const calculateResult = (guess: Answer, answer: Answer): Guess => {
             isHigher:guess.age < answer.age,
             value: guess.age
         },
-        apearances: {
-            isClose: guess.apearances > answer.apearances - 3 && guess.apearances < answer.apearances + 3,
-            isCorrect: guess.apearances === answer.apearances,
-            isHigher:guess.apearances < answer.apearances,
-            value: guess.apearances
+        Appearances: {
+            isClose: guess.Appearances > answer.Appearances - 3 && guess.Appearances < answer.Appearances + 3,
+            isCorrect: guess.Appearances === answer.Appearances,
+            isHigher:guess.Appearances < answer.Appearances,
+            value: guess.Appearances
         },
         gender: {
             isCorrect: guess.gender === answer.gender,
